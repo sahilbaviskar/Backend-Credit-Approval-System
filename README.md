@@ -320,6 +320,3 @@ curl -X POST http://localhost:8000/check-eligibility/ \
 5. Run the test suite
 6. Submit a pull request
 
-## License
-
-This project is licensed under the MIT License.
